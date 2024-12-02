@@ -20,3 +20,6 @@ The report provides insights into key metrics such as transactions, profit, retu
 - Data Visualization
 - Dax Calculations
 - Dashboard Design
+
+## Preview
+[Maven Market Dashboard preview PDF] (MavenMarket_Report.pdf)
