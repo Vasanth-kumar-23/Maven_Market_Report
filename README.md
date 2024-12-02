@@ -22,4 +22,4 @@ The report provides insights into key metrics such as transactions, profit, retu
 - Dashboard Design
 
 ## Preview
-[Maven Market Dashboard preview PDF](MavenMarket_Report.jpg)
+![Maven Market Dashboard preview](MavenMarket_Report.jpg)
